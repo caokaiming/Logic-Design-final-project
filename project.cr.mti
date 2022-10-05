@@ -1,0 +1,15 @@
+D:/E94084066/Project.v {1 {vlog -work work -stats=none D:/E94084066/Project.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PJ
+
+Top level modules:
+	PJ
+
+} {} {}} D:/E94084066/Project_tb.v {1 {vlog -work work -stats=none D:/E94084066/Project_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Project_tb
+
+Top level modules:
+	Project_tb
+
+} {} {}}
